@@ -1,0 +1,5 @@
+>> What happens when you initialize a repository? Why do you need to do it?
+== When you initialize a repository, all the files in it are tracked and all the changes you make to them are tracked. You need a repository for tracking your files.
+
+>> How is the staging area different from the working directory and the repository? What value do you think it offers?
+== Staging area is a space before the repository and after the working directory where the files are kept before they are commited. You can selectively choose which ones to commit. You can make logical commits using this. 
