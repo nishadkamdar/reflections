@@ -1,1 +1,2 @@
-
+>> When would you want to use a remote repository rather than keeping all your work local?
+== You would want to use the remote when you are using different machines to make changes to your code. You would also require a remote when multiple contributors are accessing your repo.
